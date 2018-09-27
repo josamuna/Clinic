@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5F68B58D-0242-4EC5-A116-A2050B616D0E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GestionClinic_LIB</RootNamespace>
+    <AssemblyName>GestionClinic_LIB</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CryptageJosam_LIB, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\Bossing Jos_2\Clinic_New_ben\Application\DesignClinic\GestionClinic\bin\Debug\CryptageJosam_LIB.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsaccouchement.cs" />
+    <Compile Include="clsagent.cs" />
+    <Compile Include="clsairsante.cs" />
+    <Compile Include="clsaptitudephysique.cs" />
+    <Compile Include="clsarticle.cs" />
+    <Compile Include="clsattention.cs" />
+    <Compile Include="clsattention_speciale.cs" />
+    <Compile Include="clsautrefraie.cs" />
+    <Compile Include="clsavortement.cs" />
+    <Compile Include="clsbloc.cs" />
+    <Compile Include="clscategorieagent.cs" />
+    <Compile Include="clscategoriechambre.cs" />
+    <Compile Include="clscategoriemalade.cs" />
+    <Compile Include="clschambre.cs" />
+    <Compile Include="clscollectivitequartier.cs" />
+    <Compile Include="clsconditionnement.cs" />
+    <Compile Include="clsConnexion.cs" />
+    <Compile Include="clsconsellingettestrapide.cs" />
+    <Compile Include="clsconsultation.cs" />
+    <Compile Include="clsconsultationgynecologique.cs" />
+    <Compile Include="clsconsultationprenatal.cs" />
+    <Compile Include="clsconsultation_fiche.cs" />
+    <Compile Include="clscritereresultat.cs" />
+    <Compile Include="clsdelivrance.cs" />
+    <Compile Include="clsdetailsautrefraie.cs" />
+    <Compile Include="clsdistrictville.cs" />
+    <Compile Include="clsdossieravance.cs" />
+    <Compile Include="clsdossierconsultationgynecologique.cs" />
+    <Compile Include="clsdossierconsultationprenatale.cs" />
+    <Compile Include="clsdossierechographie.cs" />
+    <Compile Include="clsdossiernursing.cs" />
+    <Compile Include="clsdossierpreconsultation.cs" />
+    <Compile Include="clsdossiersoin.cs" />
+    <Compile Include="clsDoTraitement.cs" />
+    <Compile Include="clsenfant.cs" />
+    <Compile Include="clsentecedentmedicauxobsetricaux.cs" />
+    <Compile Include="clsetablissementexterne.cs" />
+    <Compile Include="clsetablissementpriseencharge.cs" />
+    <Compile Include="clsevacuation.cs" />
+    <Compile Include="clsexamen.cs" />
+    <Compile Include="clsexamengynecoobsetrical.cs" />
+    <Compile Include="clsfacturation.cs" />
+    <Compile Include="clsfichesupplementaire.cs" />
+    <Compile Include="clsfonction.cs" />
+    <Compile Include="clsfournisseur.cs" />
+    <Compile Include="clsgroupe.cs" />
+    <Compile Include="clsgroupesanguin.cs" />
+    <Compile Include="clshospitalisation.cs" />
+    <Compile Include="clsintervention.cs" />
+    <Compile Include="clslivraison.cs" />
+    <Compile Include="clsmalade.cs" />
+    <Compile Include="clsmaladeenconsultationpostnatal.cs" />
+    <Compile Include="clsmaladegrosse.cs" />
+    <Compile Include="clsmalade_avance.cs" />
+    <Compile Include="clsmaladie.cs" />
+    <Compile Include="clsmaladie_examen.cs" />
+    <Compile Include="clsmedicament.cs" />
+    <Compile Include="clsMetier.cs" />
+    <Compile Include="clsmouvementconsultation.cs" />
+    <Compile Include="clsmouvementmaladie.cs" />
+    <Compile Include="clsmouvementoperation_laboratoire.cs" />
+    <Compile Include="clsmouvementsysteme.cs" />
+    <Compile Include="clsmvmhospitalisation.cs" />
+    <Compile Include="clsoperation_laboratoire.cs" />
+    <Compile Include="clspaiement.cs" />
+    <Compile Include="clsperiode.cs" />
+    <Compile Include="clsperiodevaccination.cs" />
+    <Compile Include="clspersonne.cs" />
+    <Compile Include="clspreconsultation.cs" />
+    <Compile Include="clsprise_vitamine.cs" />
+    <Compile Include="clsprofession.cs" />
+    <Compile Include="clsprovince.cs" />
+    <Compile Include="clsqualification.cs" />
+    <Compile Include="clsrendezvous.cs" />
+    <Compile Include="clsservice.cs" />
+    <Compile Include="clssortie.cs" />
+    <Compile Include="clssortieexterne.cs" />
+    <Compile Include="clsstock.cs" />
+    <Compile Include="clssubit.cs" />
+    <Compile Include="clssuivicroissance.cs" />
+    <Compile Include="clstarifavance.cs" />
+    <Compile Include="clstarifconsultation.cs" />
+    <Compile Include="clstarifconsultationgynecologique.cs" />
+    <Compile Include="clstarifconsultationpostnatal.cs" />
+    <Compile Include="clstarifconsultationprenatal.cs" />
+    <Compile Include="clstarifechographie.cs" />
+    <Compile Include="clstarifnursing.cs" />
+    <Compile Include="clstarifpreconsultation.cs" />
+    <Compile Include="clstarifsoin.cs" />
+    <Compile Include="clsterritoirecommune.cs" />
+    <Compile Include="clstypeaccouchement.cs" />
+    <Compile Include="clstypeexamen.cs" />
+    <Compile Include="clstypesysteme.cs" />
+    <Compile Include="clsutilisateur.cs" />
+    <Compile Include="clsvaccin.cs" />
+    <Compile Include="clsutilisateur_groupe.cs" />
+    <Compile Include="clsvaccination.cs" />
+    <Compile Include="clsvitamine.cs" />
+    <Compile Include="clsarticle_paye.cs" />
+    <Compile Include="clsallergie.cs" />
+    <Compile Include="clsantecedentallergie.cs" />
+    <Compile Include="clsantecedentmaladie.cs" />
+    <Compile Include="clscriterechographie.cs" />
+    <Compile Include="clsmouvementmaladiegynecologique.cs" />
+    <Compile Include="clsmaladiegynecologique.cs" />
+    <Compile Include="clsechographie.cs" />
+    <Compile Include="clsdossierconsultationpostnatale.cs" />
+    <Compile Include="clsdossierconsultationaccouchement.cs" />
+    <Compile Include="clssortiecancel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,15 @@
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\obj\Release\ResolveAssemblyReference.cache
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\GestionClinic_LIB.dll
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\GestionClinic_LIB.pdb
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\Npgsql.dll
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\Mono.Security.dll
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\Npgsql.pdb
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\Npgsql.xml
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\de\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\es\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\fi\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\fr\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\ja\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\bin\Release\zh-CN\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\obj\Release\GestionClinic_LIB.dll
+D:\PROJETS\Clinic\Application\GestionClinic\GetionClinic_LIB\obj\Release\GestionClinic_LIB.pdb

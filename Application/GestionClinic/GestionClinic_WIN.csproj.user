@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\;C:\Program Files (x86)\Business Objects\Common\2.8\managed\C:\Program Files\Business Objects\Common\2.8\managed\</ReferencePath>
+    <PublishUrlHistory>\\USER-PC\Deployment\ClinicSetup\|ftp://www.isig.ac.cd/isiggoma/|\\USER_LABO-PC\Users\Public\Deployment\ClinicSetup\|\\USER_LABO-PC\Deployment\ClinicSetup\|\\A-BVIEWS-PC\Users\Public\Deployment\ClinicSetup\</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>\\USER-PC\Deployment\ClinicSetup|\\USER_LABO-PC\Users\Public\Deployment\ClinicSetup|\\USER_LABO-PC\Deployment\ClinicSetup|\\A-BVIEWS-PC\Users\Public\Deployment\ClinicSetup\|\\A-BVIEWS-PC\Users\Public\Deployment</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+</Project>

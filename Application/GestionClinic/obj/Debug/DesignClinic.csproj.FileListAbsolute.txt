@@ -1,0 +1,445 @@
+D:\Docu\MyDefiances\C$\Exer\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+D:\Docu\MyDefiances\C$\Exer\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+D:\Docu\MyDefiances\C$\Exer\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+D:\Docu\MyDefiances\C$\Exer\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+D:\Docu\MyDefiances\C$\Exer\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+D:\Docu\MyDefiances\C$\Exer\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+D:\Docu\MyDefiances\C$\Exer\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+D:\Docu\MyDefiances\C$\Exer\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+D:\Docu\MyDefiances\C$\Exer\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Test.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+H:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+H:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+C:\Users\CPG SOFT\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+C:\Users\CPG SOFT\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Preconsultation.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Mono.Security.dll
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.dll
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.pdb
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.xml
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\de\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\es\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\fi\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\fr\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\ja\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMalade.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Fonction.resources
+D:\PROJETS\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Mono.Security.dll
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.dll
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.pdb
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.xml
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\de\Npgsql.resources.dll
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\es\Npgsql.resources.dll
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\fi\Npgsql.resources.dll
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\fr\Npgsql.resources.dll
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\ja\Npgsql.resources.dll
+F:\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\zh-CN\Npgsql.resources.dll
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMalade.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Fonction.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Preconsultation.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+F:\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Mono.Security.dll
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.dll
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.pdb
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.xml
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\de\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\es\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMalade.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Fonction.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Preconsultation.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+C:\Users\A-B Views\Desktop\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Mono.Security.dll
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.dll
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.pdb
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.xml
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\de\Npgsql.resources.dll
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\es\Npgsql.resources.dll
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\fi\Npgsql.resources.dll
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\fr\Npgsql.resources.dll
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\ja\Npgsql.resources.dll
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMalade.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Preconsultation.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+D:\CCL\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmFonction.resources
+D:\CODES\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+D:\CODES\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Mono.Security.dll
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.dll
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.pdb
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.xml
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\de\Npgsql.resources.dll
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\es\Npgsql.resources.dll
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\fi\Npgsql.resources.dll
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\fr\Npgsql.resources.dll
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\ja\Npgsql.resources.dll
+F:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\zh-CN\Npgsql.resources.dll
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMalade.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmFonction.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Preconsultation.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+F:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Mono.Security.dll
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.dll
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.pdb
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.xml
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\de\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\es\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMalade.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmFonction.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Preconsultation.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+C:\Users\A-B Views\Desktop\archi clinic\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMalade.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmFonction.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Preconsultation.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+D:\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Mono.Security.dll
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.dll
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.pdb
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.xml
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\de\Npgsql.resources.dll
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\es\Npgsql.resources.dll
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\fi\Npgsql.resources.dll
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\fr\Npgsql.resources.dll
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\ja\Npgsql.resources.dll
+D:\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Mono.Security.dll
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.dll
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMalade.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmFonction.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Preconsultation.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+C:\Users\A-B Views\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmOrganisationDePriseEncharge.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmCategorieMalade.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmFonction.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmEtablissementDePriseEncharge.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmPreconsultation.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Mono.Security.dll
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.dll
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmProfession.resources
+C:\Users\Fils  NZUGHUNDI\Desktop\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmAirSante.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Connection.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.EtatSortie.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmAirSante.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmCategorieMalade.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmDctionnaire.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmFonction.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmEtablissementDePriseEncharge.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmProfession.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmPreconsultation.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_RPT.exe
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.dll
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_RPT.pdb
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+D:\Docu\Project\Java\CPG\ClinicJos\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_RPT.exe
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\Npgsql.dll
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_RPT.pdb
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Connection.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.EtatSortie.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmAirSante.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmCategorieMalade.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmDctionnaire.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmFonction.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmEtablissementDePriseEncharge.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmProfession.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmPreconsultation.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+D:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.test.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.exe
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\DesignClinic.pdb
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.dll
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\CryptageJosam_LIB.dll
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_LIB.pdb
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\ResolveAssemblyReference.cache
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Agent.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.AutresFraisUser.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.CategorieMaladeUserContr.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Connection.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.EtatSortie.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FonctionUserControl.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMainMenu.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmAccouchement.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmAirSante.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmAntecedentMedicauxObsetricaux.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmApprovisionementMedicament.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmAttention.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmAttentionSpeciale.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmAutreFraie.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmAvortement.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmCategorieChambre.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmCategorieMalade.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmChambres.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmConsellingEtTestRapide.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmConsomationMedicament.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmConsomationMedicamentUser.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmConsultationFiche.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmConsultationNormal.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmConsultationPreNatale.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmConsultationPrenataleUser.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmDctionnaire.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmDelivrance.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmElementDeConsultationNormal.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmEnfant.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmEntecedentMedicauxObsetricaux.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmEtablissementDePriseEncharge.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmEvacuation.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmExamen.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmExamenGynecoObsetrical.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmFonction.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmFournieMedicament.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmFournieOutilMedical.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmHospitalisation.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmIntervation.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmMaladeConsultationPostNatalUser.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmMaladeGrosse.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmMaladie.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmMedicament.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmMouvementConsultation.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmMouvementHospitalisation.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.frmMouvementHospitalisationUser.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmMvtPassationExamenExamen.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmMvtPassationExamenMaladie.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmOutilsMedical.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmPassationExamen.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmPasserIntervation.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmPeriodeVaccination.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmPeriodeVitamine.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmPreconsultation.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmPriseVitamine.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmProfession.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmQualification.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmRendezVous.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmSuivieCroissance.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmSysteme.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmTypeAccouchement.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmTypeExamen.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmUserChambre.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmVaccin.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmVaccination.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmVitamine.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Hospitalisation.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Infirmier.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.InterventionUser.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Loding.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Malade.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Medecin.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.OrganisationDePriseEnCharge.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Properties.Resources.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.QualificationUserControl.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.test.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Utilisateur.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.csproj.GenerateResource.Cache
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.exe
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.pdb
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_RPT.exe
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\bin\Debug\GestionClinic_RPT.pdb
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Fournisseur.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.FrmPassationExamenUser.resources
+E:\Docu\Project\Java\CPG\Clinic\Application\DesignClinic\DesignClinic\obj\Debug\DesignClinic.Paiement.resources
